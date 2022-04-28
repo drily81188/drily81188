@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <img src ="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="300" height="300" />
 
 <h1 align="left" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm deeksha sharma  </h1>
@@ -12,15 +11,17 @@
 
 Motivated, adaptable, and responsible electronic
 Engineer turned into a Full Stack Developer seeking a
-position that utilizes technical and professional skills. Strong drive to see things to completion. Aiming to
+position that utilizes technical and professional skills.
+Strong drive to see things to completion. Aiming to
 work with an organization that will help in showcasing
-my knowledge and skills following the latest
-technologies and be a part of a team that
-dynamically works towards the growth of the
-organization.
+my knowledge and skills following the latest technologies
+and be a part of a team that dynamically works towards the 
+growth of the organization.
 
 
- <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+ <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">
+    Thought : "Life is full of choices…choose wisely!”</i></b>
+ <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 
  <hr>
 
@@ -83,26 +84,26 @@ organization.
 </p>
 
 <p align="left" >
-<img src="http://github-readme-streak-stats.herokuapp.com?user=monumishra326&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727"  />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=deekshasharma359&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727"  />
 </p>
  
 <p>
-<a href="https://github.com/monumishra326"><span>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monumishra326&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=monumishra326&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
+<a href="https://github.com/drily81188"><span>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drily81188&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=drily81188&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
 </span></a> </p>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <hr clear="both">
  <br/>
 <p align="center">
-<a href="https://github.com/monumishra326"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monumishra326&theme=dracula" />
+<a href="https://github.com/drily81188"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drily81188&theme=dracula" />
 </span></a> </p>
 
  <br/>
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=monumishra326&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=deekshasharma359&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
 
 
 <hr clear="both">
