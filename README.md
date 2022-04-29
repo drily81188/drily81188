@@ -39,6 +39,10 @@ growth of the organization.
  <a href="hhttps://medium.com/@deekshasharma359">
     <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/medium.svg" width="32px"  />
   </a>
+  <p align="center">
+  <a href="https://www.linkedin.com/in/deeksha-sharma81/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+</p>
 
   
 </p>
